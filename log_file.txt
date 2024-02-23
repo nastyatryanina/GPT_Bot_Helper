@@ -1,0 +1,4 @@
+2024-02-23 18:11:05,622 - root - INFO - Бот запущен
+2024-02-23 18:11:37,170 - root - INFO - Запрос к нейросети
+2024-02-23 18:12:16,552 - TeleBot - ERROR - Infinity polling: polling exited
+2024-02-23 18:12:16,555 - TeleBot - ERROR - Break infinity polling
